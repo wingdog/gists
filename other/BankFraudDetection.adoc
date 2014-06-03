@@ -91,9 +91,9 @@ image::https://raw.github.com/neo4j-contrib/gists/master/other/images/BankFraud-
 
 // Create account holders
 CREATE (accountHolder1:AccountHolder { 
-       		FirstName: "John", 
-       		LastName: "Doe", 
-       		UniqueId: "JohnDoe" }) 
+       		FirstName: "Michael", 
+       		LastName: "Lu", 
+       		UniqueId: "MichaelLu" }) 
 
 CREATE (accountHolder2:AccountHolder { 
 			FirstName: "Jane", 
